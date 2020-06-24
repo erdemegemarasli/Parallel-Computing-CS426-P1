@@ -1,2 +1,2 @@
-# cs426-parallel-computing-p1-
-cs426-parallel computing-p1 
+# Parallel-Computing-CS426-P1
+Parallel-Computing-CS426-P1
